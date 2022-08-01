@@ -1,4 +1,4 @@
-### Olá, seja bem vindo. Eu sou Bruno Boggio 👋
+### Olá, seja bem vindo. Eu sou Bruno Medeiros 👋
 
 - 🌱 Atualmente estudando desenvolvimento Web, Front-End.
 - 📫 Contato - telefone (11)95081-9286, email: brn_boggio@hotmail.com
